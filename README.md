@@ -89,7 +89,7 @@
 
 
 
-## <b> Proyects </b>
+## <b> Projects </b>
 <br>
 
 Plumps

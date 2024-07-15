@@ -23,6 +23,19 @@
 - I’m currently open for an Intern or a new job opportunity
 
 <br><br>
+## <b> Personal data </b>
+<br>
+
+ID: 42.567.088
+
+Tax ID: 20-42567088-4
+
+Age: 23 years old
+
+Date of birth: March 20, 2000
+
+Nationality: argentinian
+
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
@@ -110,6 +123,8 @@ https://marianherrero4.wixsite.com/mariano-herrero
 
 ## <b> Let's Connect..!</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
 <br>
+marianherrero4@gmail.com
+
 Phone: 11 6575-7770
 <div align='left'>
 

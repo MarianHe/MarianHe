@@ -95,6 +95,16 @@
 Plumps
 https://marianoherrero.itch.io/plumps
 
+## <b> More About Me </b>
+<br>
+
+file:///E:/bakup%20mariano/carpetas/Curriculum/Curriculum%20actualizado/CV%20Mariano%20Herrero.pdf
+
+## <b> Portfolio </b>
+<br>
+
+https://marianherrero4.wixsite.com/mariano-herrero
+
 
 <div align='left'>
 

@@ -116,10 +116,10 @@ Studying the third year of the career of Video Game Design and Development at Da
 Plumps
 https://marianoherrero.itch.io/plumps
 
-## <b> More About Me </b>
+## <b> More About Me. CV </b>
 <br>
 
-file:///E:/bakup%20mariano/carpetas/Curriculum/Curriculum%20actualizado/CV%20Mariano%20Herrero.pdf
+file:///C:/Users/Mariano/Downloads/CV%20Mariano%20Herrero%20Data%20entry.pdf
 
 ## <b> Portfolio </b>
 <br>

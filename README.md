@@ -119,7 +119,9 @@ https://marianoherrero.itch.io/plumps
 ## <b> More About Me. CV </b>
 <br>
 
-file:///C:/Users/Mariano/Downloads/CV%20Mariano%20Herrero%20Data%20entry.pdf
+<a href="./CV_MarianoHerrero.pdf" target="_blank">
+  <img src="https://img.shields.io/badge/View%20CV-blue?style=for-the-badge&logo=adobeacrobatreader" alt="CV Button"/>
+</a>
 
 ## <b> Portfolio </b>
 <br>

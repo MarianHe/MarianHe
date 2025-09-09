@@ -110,19 +110,26 @@ Studying the third year of the career of Video Game Design and Development at Da
 
 
 
-## <b> Projects </b>
-<br>
+## <b> Projects </b> 
 
-### 🎮 Plumps
-<br>
-<a href="https://www.youtube.com/watch?v=JWv6IUqro80" target="_blank">
+### 🎮 Games
+### 🎮 Plumps  
+<a href="https://www.youtube.com/watch?v=JWv6IUqro80" target="_blank"> 
   <img src="https://img.shields.io/badge/▶️%20Watch%20Gameplay-red?style=for-the-badge&logo=youtube" alt="Gameplay Video"/>
-</a>
+</a>  
 
-### 🎮 La Aventura Del Tesoro
-<br>
-<a href="https://www.youtube.com/watch?v=AaFlRCWylbg" target="_blank">
+### 🎮 La Aventura Del Tesoro  
+<a href="https://www.youtube.com/watch?v=AaFlRCWylbg" target="_blank"> 
   <img src="https://img.shields.io/badge/▶️%20Watch%20Gameplay-red?style=for-the-badge&logo=youtube" alt="Gameplay Video"/>
+</a>  
+
+### 💻 More Programming Projects
+<a href="https://github.com/MarianoHerrero/Repo1" target="_blank"> 
+  <img src="https://img.shields.io/badge/Repo1-GitHub-blue?style=for-the-badge&logo=github" alt="Repo1"/>
+</a>  
+
+<a href="https://github.com/MarianoHerrero/Repo2" target="_blank"> 
+  <img src="https://img.shields.io/badge/Repo2-GitHub-blue?style=for-the-badge&logo=github" alt="Repo2"/>
 </a>
 
 ## <b> More About Me. CV </b>

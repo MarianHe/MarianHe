@@ -10,7 +10,7 @@
 
 
 	
-## <img src="https://media.giphy.com/media/3o7TKrG6Sg55dPQZ0I/giphy.gif" width="50px"> **About Me**
+## <img src="https://img.icons8.com/ios-filled/50/00ffff/about.png" width="50px"> **About Me**
 
 
 

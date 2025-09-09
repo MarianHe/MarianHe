@@ -10,7 +10,7 @@
 
 
 	
-## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
+## <img src="https://media.giphy.com/media/3o7TKrG6Sg55dPQZ0I/giphy.gif" width="50px"> **About Me**
 
 
 

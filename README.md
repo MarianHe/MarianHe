@@ -124,20 +124,15 @@ Studying the third year of the career of Video Game Design and Development at Da
 </a>  
 
 ### 💻 More Programming Projects
-<a href="https://github.com/MarianoHerrero/Repo1" target="_blank"> 
-  <img src="https://img.shields.io/badge/Repo1-GitHub-blue?style=for-the-badge&logo=github" alt="Repo1"/>
+<a href="https://github.com/MarianHe/IA_Pathfinding" target="_blank"> 
+  <img src="https://img.shields.io/badge/IA_Pathfinding-GitHub-blue?style=for-the-badge&logo=github" alt="IA Pathfinding"/>
 </a>  
+*AI Pathfinding system for games or simulations.*
 
-<a href="https://github.com/MarianoHerrero/Repo2" target="_blank"> 
-  <img src="https://img.shields.io/badge/Repo2-GitHub-blue?style=for-the-badge&logo=github" alt="Repo2"/>
-</a>
-
-## <b> More About Me. CV </b>
-<br>
-
-<a href="./CV_MarianoHerrero.pdf" target="_blank">
-  <img src="https://img.shields.io/badge/View%20CV-blue?style=for-the-badge&logo=adobeacrobatreader" alt="CV Button"/>
-</a>
+<a href="https://github.com/MarianHe/IA_FollowLeader" target="_blank"> 
+  <img src="https://img.shields.io/badge/IA_FollowLeader-GitHub-blue?style=for-the-badge&logo=github" alt="IA Follow Leader"/>
+</a>  
+*AI system for entities to follow a leader dynamically.*
 
 ## <b> Portfolio </b>
 <br>

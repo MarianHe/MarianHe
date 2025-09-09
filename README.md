@@ -137,12 +137,6 @@ Studying the third year of the career of Video Game Design and Development at Da
   <img src="https://img.shields.io/badge/View%20Repo-GitHub-blue?style=for-the-badge&logo=github" alt="IA Follow Leader"/>
 </a>  
 
-## <b> Portfolio </b>
-<br>
-
-https://marianherrero4.wixsite.com/mariano-herrero
-
-
 <div align='left'>
 
 ## <b> Let's Connect..!</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">

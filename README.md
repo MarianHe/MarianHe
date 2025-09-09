@@ -113,10 +113,14 @@ Studying the third year of the career of Video Game Design and Development at Da
 ## <b> Projects </b>
 <br>
 
-Plumps
-https://marianoherrero.itch.io/plumps
+### 🎮 Plumps
+<br>
+<a href="https://www.youtube.com/watch?v=JWv6IUqro80" target="_blank">
+  <img src="https://img.shields.io/badge/▶️%20Watch%20Gameplay-red?style=for-the-badge&logo=youtube" alt="Gameplay Video"/>
+</a>
 
-La Aventura Del Tesoro
+### 🎮 La Aventura Del Tesoro
+<br>
 <a href="https://www.youtube.com/watch?v=AaFlRCWylbg" target="_blank">
   <img src="https://img.shields.io/badge/▶️%20Watch%20Gameplay-red?style=for-the-badge&logo=youtube" alt="Gameplay Video"/>
 </a>

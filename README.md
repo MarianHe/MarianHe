@@ -125,6 +125,17 @@ Studying the third year of the career of Video Game Design and Development at Da
   <img src="https://img.shields.io/badge/▶️%20Watch%20Gameplay-red?style=for-the-badge&logo=youtube" alt="Gameplay Video"/>
 </a>  
 
+### 🎮 Web Monsters Game  
+*Browser game.*  
+
+<a href="https://marianhe.github.io/WebMonstersGame/" target="_blank"> 
+  <img src="https://img.shields.io/badge/▶️%20Play%20Now-green?style=for-the-badge&logo=google-chrome" alt="Play Web Monsters Game"/>
+</a>  
+
+<a href="https://github.com/MarianHe/WebMonstersGame" target="_blank"> 
+  <img src="https://img.shields.io/badge/View%20Repo-GitHub-blue?style=for-the-badge&logo=github" alt="Web Monsters Repo"/>
+</a>  
+
 
 ### 💻 More Programming Projects
 

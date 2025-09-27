@@ -119,9 +119,9 @@ Studying the third year of the career of Video Game Design and Development at Da
   <img src="https://img.shields.io/badge/▶️%20Watch%20Gameplay-red?style=for-the-badge&logo=youtube" alt="Gameplay Video"/>
 </a>  
 
-### 🎮 Plumps  
+### 🎮 Potions In The Wild  
 *Pc game.*  
-<a href="https://www.youtube.com/watch?v=JWv6IUqro80" target="_blank"> 
+<a href="https://www.youtube.com/watch?v=Wncdg5KUT8k" target="_blank"> 
   <img src="https://img.shields.io/badge/▶️%20Watch%20Gameplay-red?style=for-the-badge&logo=youtube" alt="Gameplay Video"/>
 </a>  
 

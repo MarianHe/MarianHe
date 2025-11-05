@@ -151,7 +151,7 @@ Studying the third year of the career of Video Game Design and Development at Da
   <img src="https://img.shields.io/badge/View%20Repo-GitHub-blue?style=for-the-badge&logo=github" alt="IA Follow Leader"/>
 </a>
 
-<a href="https://www.youtube.com/watch?v=3jYUF-wdd0U" target="_blank"> 
+<a href="https://www.youtube.com/watch?v=lcQd8TymsGA" target="_blank"> 
   <img src="https://img.shields.io/badge/▶️%20Watch%20Gameplay-red?style=for-the-badge&logo=youtube" alt="Gameplay Video"/>
 </a>  
 

@@ -43,6 +43,7 @@ Completed secondary school. Vanguard Institute
 
 All coursework in Video Game Development completed at Da Vinci — Thesis in progress
 
+Intermediate Degree in Virtual Simulation Design and Programming
 <a href="https://raw.githubusercontent.com/MarianHe/MarianHe/216cc8e172b4c6ecb7ea5941cd0ea93bcb5c3b6d/VJ%20%20-Herrero%20Mariano.pdf" target="_blank">
   <img src="https://img.shields.io/badge/View-Intermediate%20Degree-green?style=for-the-badge">
 </a>

@@ -121,7 +121,7 @@ Intermediate Degree in Virtual Simulation Design and Programming<br><br>
 
 ### 🎮 Symbiosis Two Minds
 *Pc game.*  
-<a href="https://www.youtube.com/watch?v=tg1jeu_y_qg" target="_blank"> 
+<a href="https://www.youtube.com/watch?v=ewYm96F4xsw" target="_blank"> 
   <img src="https://img.shields.io/badge/▶️%20Watch%20Gameplay-red?style=for-the-badge&logo=youtube" alt="Gameplay Video"/>
 </a>  
 
